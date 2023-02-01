@@ -1,4 +1,9 @@
 
+body {
+    background: red;
+}
+
+
 .output {
     display: flex;
     flex-wrap: wrap;
