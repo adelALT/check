@@ -1,0 +1,12 @@
+
+.output {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.output img {
+    width: 150px;
+    height: 150px;
+}
